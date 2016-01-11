@@ -1,6 +1,66 @@
-.bgcolor {
-	background-color: red;
+
+
+
+/*html {
+background: url("img/circuit.jpg") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}*/
+body {
+	
+	/*background-color: gray;*/
+	background-image: url("img/circuit2.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+	
 }
-.bgcolor2 {
-	background-color: green;
+
+#img1 {
+	border-radius: 50px;
+	padding: 20px;
+}
+
+h1 {
+	font-family: Garamond; 
+	text-align: center;
+	color: white;
+}
+
+.main-header {
+	background-color: black;
+	padding: 20px;
+
+}
+.res-btn {
+	margin: 20px;
+}
+.hcenter {
+	text-align: center;
+	color:white;
+}
+.center {
+	text-align: center;
+	color: white;
+	background-color: black;
+	border-radius: 50px;
+}
+.cen {
+	text-align: center;
+}
+
+.btn-right {
+	float: right;
+}
+
+p {
+	color: white;	
+}
+
+.img1 {
+	width: 100%;
 }
